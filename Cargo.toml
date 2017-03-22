@@ -1,0 +1,7 @@
+[package]
+name = "niu"
+version = "0.1.0"
+authors = ["Jan Soendermann <jan.soendermann+git@gmail.com>"]
+
+[dependencies]
+byteorder = "1.0.0"
